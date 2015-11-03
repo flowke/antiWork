@@ -1,0 +1,48 @@
+
+
+@media screen and (max-width:940px){
+    .g-gloBd{padding:0 20px; width:640px;}
+    .g-gloBd .g-mn{width:auto;}
+    .g-gloBd .g-sb{display:none;}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/**
+* The firs src for IE9 Compat Modes
+* IE6-IE8
+* Modern Browsers
+* Safari, Android, iOS
+* Legacy iOS
+**/
+
+@font-face {
+font-family: 'YourWebFontName';
+src: url('YourWebFontName.eot'); 
+src: url('YourWebFontName.eot?#iefix') format('embedded-opentype'), 
+     url('YourWebFontName.woff') format('woff'), 
+     url('YourWebFontName.ttf') format('truetype'), 
+     url('YourWebFontName.svg#Y') format('svg'); 
+}

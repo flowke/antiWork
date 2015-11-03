@@ -1,0 +1,25 @@
+/*module*/
+.m-pgTt h1{padding:18px 0; border-bottom:1px solid #5A739E; font-size:30px; color:#5A739E;}
+/*E-pgtt*/
+.m-pnl{margin:40px 0; text-align:center; color:#7A7A7A; background:#EBEBEB;}
+.m-pnl table{table-layout:fixed; width:640px; }
+.m-pnl td, .m-pnl th{}
+.m-pnl .logo{width:157px; height:57px; padding:10px; background:#DEDEDE;}
+.m-pnl .buyBg{background:#DEDEDE;}
+.m-pnl .buyBg-1{background:#CFCFCF;}
+.m-pnl .buyBg-2{background:#BFBFBF;}
+.m-pnl .price{padding:14px 0; font-size:28px; line-height:1em; font-weight:bold;}
+.m-pnl .buyBg-s .price{padding:14px 0 2px; font-size:26px;}
+.m-pnl .btn{padding:4px 80px 30px;}
+.m-pnl .buyBg-s .btn{padding:14px 60px 30px;}
+.m-pnl .btn a{display:block; width:100%; height:100%; border-radius:2px; font-size:20px; line-height:40px; background:#1F95F3;}
+.m-pnl .buyBg-s .btn a{font-size:16px; line-height:34px;}
+.m-pnl .maintTt{height:40px; font-size:14px; background:#D4D4D4;}
+.m-pnl .maintBg{background:url(../img/maintbg.png), #E5E5E5;}
+.m-pnl .maintP, .m-pnl .maintTim{display:block;}
+.m-pnl .maintP{font-size:28px; font-weight:bold;}
+.m-pnl .maintTim{font-size:12px; color:#444;}
+.m-pnl .intro h2{font-size:20px; padding:22px 0 10px; color:#000;}
+.m-pnl .intro p{padding:0 40px 14px;}
+.m-pnl .intro span{color:#000;}
+/*End-module*/

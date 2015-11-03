@@ -1,0 +1,37 @@
+
+
+@media screen and (max-width:940px){
+    .m-gloNav .wrap{display:none;}
+    .m-gloNav .wrap1{display:block;}
+
+    .g-gloBd{padding:0 20px; width:640px;}
+    .g-gloBd .g-mn{width:auto;}
+    .g-gloBd .g-sb{display:none;}
+
+    .m-footer{width:640px;}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
